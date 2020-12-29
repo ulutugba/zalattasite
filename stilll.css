@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-image:url(img/WhatsApp%20Image%202020-12-25%20at%2023.25.13.jpeg);}
+	#sayfa{
+		width:1000px;
+		background-color:white;
+		margin:auto;
+		box-sizing:border-box;
+		border-radius:5px;}
+		#logo{
+			float:left;}
+			.sil{
+				clear:both;}
+	nav{
+		width:800px;
+		height:40px;
+		background-image:url(img/WhatsApp%20Image%202020-12-25%20at%2023.25.13%20(1).jpeg);
+
+		float:left;
+		margin-top:50px;
+		
+		}	
+nav ul{
+	list-style:none;
+	margin:0px;
+	padding:0px;}
+nav ul li{
+	width:100px;
+	float:left;	
+	
+}
+
+nav ul li{
+text-decoration:none;
+	display:block;
+	font-size:14px;
+	color:#000;
+	font-weight:bold;
+	text-align:center;
+	line-height:40px;
+	margin-left:5px;
+}
+nav ul li a:hover{
+	color:#F00;
+	
+	}
+#icerik{
+	width:980px;
+	height:auto;
+	margin:auto;
+	}	
+	
+.bir{
+	width:275px;
+	height:160px;
+	border-radius:5px;
+	float:left;
+	border:1px solid #360;
+	padding:20px;
+}	
+	
+.iki{
+	width:300px;
+	height:200px;
+	border-radius:5px;
+	float:left;
+	border:1px solid #360;
+	margin-left:15px;
+	}	
+	
+.uc{
+	width:340px;
+	height:200px;
+	border-radius:5px;
+	float:right;
+	border:1px solid #360;
+	
+	}	
+	
+section{
+	margin-top:20px;}
+	
+footer{
+	width:1000px;
+	height:50px;
+	line-height:50px;
+	text-align:center;
+	font-weight:bold;
+	margin-top:10px;}
+	
+	
+	#sol{
+		width:490px;
+		height:303px;
+		background-image:url(img/WhatsApp%20Image%202020-12-25%20at%2023.25.13.jpeg);
+		box-sizing:border-box;
+		float:left;
+		padding:10px;
+		margin-bottom:5px;
+		}
+		
+	#sag{
+		width:490px;
+		height:303px;
+		background-image:url(img/WhatsApp%20Image%202020-12-25%20at%2023.25.13.jpeg);
+		box-sizing:border-box;
+		float:right;
+		padding:10px;
+	
+		}
